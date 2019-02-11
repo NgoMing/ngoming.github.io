@@ -682,9 +682,9 @@ ul{
 /*-------------------------*/
 /* $Timeline-cards 
 ---------------------------*/
-.timeline-card__title {
+.timeline-card__title a {
   color: blue;
-  font-weight: bold;
+  font-weight: bold; 
 }
 
 .timeline-card__details {
